@@ -85,6 +85,21 @@ The available dataset spans over various dimensions and categories including ord
   </div>
   <div>
     <h3>Sales</h3>
-    
+    <table align="center">
+    <tr>
+      <td>
+        <img width="2880" height="1530" alt="Sales Table" 
+          src="https://github.com/user-attachments/assets/6cefde73-9437-48e9-9fb2-7819a3591eab" />
+      </td>
+      <td>
+        <img width="2960" height="1512" alt="Sales mix by product" 
+          src="https://github.com/user-attachments/assets/713e7d24-1719-4ac9-84ee-5a0352903944" />
+      </td>
+      <td>
+        <img width="1493" height="867" alt="Sales by product" 
+        src="https://github.com/user-attachments/assets/78ce7194-4bf5-4da6-966d-82f07abdf07a" />
+      </td>
+    </tr>
+  </table>
   </div>
 </div>
