@@ -85,12 +85,11 @@ The available dataset spans over various dimensions and categories including ord
   </div>
   <div>
     <h3>Sales</h3>
+    <img width="2848" height="1512" alt="Revenue by region" 
+      src="https://github.com/user-attachments/assets/bbe4cbbc-a71f-4c32-bbfa-30d77a5db388" />
+    <p align="justify">North America has collected the highest Sales Revenue throughout the period.</p>
     <table align="center">
     <tr>
-      <td>
-        <img width="2880" height="1530" alt="Sales Table" 
-          src="https://github.com/user-attachments/assets/6cefde73-9437-48e9-9fb2-7819a3591eab" />
-      </td>
       <td>
         <img width="2960" height="1512" alt="Sales mix by product" 
           src="https://github.com/user-attachments/assets/713e7d24-1719-4ac9-84ee-5a0352903944" />
@@ -101,5 +100,43 @@ The available dataset spans over various dimensions and categories including ord
       </td>
     </tr>
   </table>
+    <p align="justify">
+      The 27in 4K Gaming Monitor generated 35% revenue, the highest Sales of $9862K with AOV $421 and more than 23K orders throughout the period.
+    </p>
+    <p align="justify">
+      The Apple Airpods Headphones hold the highest order count of 48K, generating total Sales revenue of $7739K and AOV of $160 throughout the period.</p>
+<p align="justify">
+  The Macbook Air Laptop generated the highest AOV of $1590 with total Sales revenue of $6303K from 3964 orders throughout the period.
+    </p>
+  </div>
+  <div>
+    <h3>Refund</h3>
+    <img width="690" height="224" alt="Refund by region_pie" 
+      src="https://github.com/user-attachments/assets/20dbe635-f008-42d0-bbcd-9340bc04541f" />
+    <p align="justify">
+      Our preliminary exploratory analysis shows the North America is the region with the highest refund rate of <b>55.83%.</b>
+    </p>
+    <table align="center">
+    <tr>
+      <td>
+        <img width="1493" height="867" alt="Refund by product" 
+          src="https://github.com/user-attachments/assets/b7a8cfbf-1425-4ffe-aaa7-7cd48f0cf161" />
+      </td>
+      <td>
+        <img width="2960" height="1512" alt="Refund mix by product" 
+          src="https://github.com/user-attachments/assets/91327aec-1d5b-43be-af19-4368fe3d54b7" />
+      </td>
+    </tr>
+  </table>
+    <p align="justify">
+    The Macbook Air Laptop holds the highest refund amount with 33.37% ($746K) with just 453 returns.
+    </p>
+    <p align="justify">
+      The Apple Airpods Headphones are the most returned product with 2636 returns covering 19.22% ($430K) of total return amount.
+    </p>
+  </div>
+  <div>
+    <h3>Product & Operations</h3>
+    
   </div>
 </div>
