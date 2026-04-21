@@ -114,7 +114,7 @@ The available dataset spans over various dimensions and categories including ord
     <img width="690" height="224" alt="Refund by region_pie" 
       src="https://github.com/user-attachments/assets/20dbe635-f008-42d0-bbcd-9340bc04541f" />
     <p align="justify">
-      Our preliminary exploratory analysis shows the North America is the region with the highest refund rate of <b>55.83%.</b>
+      Our preliminary exploratory analysis shows the North America is the region with the highest refund rate of <b>56%.</b>
     </p>
     <table align="center">
     <tr>
@@ -137,6 +137,44 @@ The available dataset spans over various dimensions and categories including ord
   </div>
   <div>
     <h3>Product & Operations</h3>
-    
+    <img width="1032" height="610" alt="Marketing channel popularity" 
+      src="https://github.com/user-attachments/assets/40a6d74e-9643-4a59-9394-20ac3a742271" />
+    <p align="justify">
+      Direct marketing channel covers more than <b>80%</b> of total sales revenue followed by emails (11.91%). 
+    </p>
+    <br/>
+    <img width="748" height="212" alt="Loyalty vs Non-loyalty" 
+      src="https://github.com/user-attachments/assets/ec3daf0d-5490-4b6d-9692-60b3774c0168" />
+    <img width="671" height="174" alt="isloyal" 
+      src="https://github.com/user-attachments/assets/5ae80beb-afe4-48d8-98e5-80f68f333118" />
+  <br/>
+    <p align="justify">
+      Loyalty program customers show continuous sales growth compared to non-loyalty program customers. However, by the end of the period, the company is losing its revenue through a loyalty program which needs to be addressed.
+    </p>
+    <br/>
+    <table align="center">
+    <tr>
+      <td>
+        <p align="center">
+        <img width="2848" height="1512" alt="Popular platform" 
+          src="https://github.com/user-attachments/assets/55b2cee5-9aaa-4caf-835a-0a32673ab822" />
+          Every year, huge percent of orders are purchased through <b>web platforms</b>.
+        </p>
+      </td>
+      <td>
+        <p align="center">
+        <img width="2878" height="1512" alt="Order Frequency" 
+          src="https://github.com/user-attachments/assets/085bb3c3-a3b9-4586-b605-4c3c1bfff69c" />
+          Apple Airpods Headphones were the most purchased items (48K) with <b>almost double that of the next highest purchased item</b>, Gaming Monitor (23k).
+        </p>
+      </td>
+    </tr>
+  </table>
+    <img width="1848" height="920" alt="Seasonality Trend" 
+      src="https://github.com/user-attachments/assets/d2f53d9c-7b1d-447d-8142-b3ea3fa124a4" />
+ <p align="justify">
+   This scatter plot reveals that the <b>New Year Holiday Period (Nov-Jan)</b> was the most favorable period and the <b>Summer Break (Apr-Aug)</b> was the worst period for sales. Another interesting factor to remember is Oct 2022 shows comparatively sharp declining sales than the rest.
+ </p>
+  </div>
   </div>
 </div>
