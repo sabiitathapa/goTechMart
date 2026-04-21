@@ -26,3 +26,65 @@ The available dataset spans over various dimensions and categories including ord
   <summary><h2>Methodology</h2></summary>
   To bring this analysis to life, three core tools were used throughout the project. Excel served as the starting point for cleaning and organizing the raw data, making sure everything was structured and ready for deeper exploration. Tableau was then used to visually explore the data and build interactive dashboards that make the insights easy to understand at a glance. Finally, SQL was used to dig into the numbers and extract meaningful insights through structured queries.
 </details>
+<div>
+  <h2>Analysis, Insights & Findings</h2>
+  <h3>Revenue, AOV & Order Counts</h3>
+  <table align="center">
+    <tr>
+      <td>
+        <p align="center">
+          <img width="2848" height="1512" alt="Sales by USD" 
+            src="https://github.com/user-attachments/assets/9837a6e7-6571-47ab-9ef5-443bb89c9098" />
+          Revenue
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img width="2848" height="1512" alt="AOV by USD" 
+            src="https://github.com/user-attachments/assets/8d5efe97-2290-4640-8a3d-b8414ba7300b" />
+          AOV
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img width="2848" height="1512" alt="orders by month" 
+            src="https://github.com/user-attachments/assets/7bbd72d7-2fcc-4f3b-a81c-1c48b259166e" />
+          Total Orders
+        </p>
+      </td>
+    </tr>
+  </table>
+  <div>
+    <img width="628" height="144" alt="Sales_AOV_Order" 
+      src="https://github.com/user-attachments/assets/5315f10d-40ec-46e4-8d37-133c40a7ad47" />
+    <table align="center">
+    <tr>
+      <td>
+        <p align="center">Total Revenue: <b>$28M</b>
+        </p>
+      </td>
+      <td>
+        <p align="center">Total AOV: <b>$260</b>
+        </p>
+      </td>
+      <td>
+        <p align="center">Total Orders: <b>108126</b>
+        </p>
+      </td>
+    </tr>
+    </table>
+    <p>
+      In 2020, the company gained its highest sales of all time with sales growth by <b>162%</b>, AOV growth by <b>31%</b> and order count growth by <b>101%</b>.
+    </p>
+    <p>
+      After COVID, the sales declined to 46% and order count declined to 40% in 2022 while total AOV declined to just 10%.
+    </p>
+    <p>
+      From 2019 to 2020, average number of sales per year was 27K, with average yearly sale revenue of $7M and average order value of $254. 2021 saw the highest number of sales (36K), but 2020 had on average the most expensive sales (AOV of $300).
+    </p>
+  </div>
+  <div>
+    <h3>Sales</h3>
+    
+  </div>
+</div>
