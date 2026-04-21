@@ -181,29 +181,32 @@ The available dataset spans over various dimensions and categories including ord
     <h2>Recommendations</h2>
     <h3>General</h3>
     <p align="justify">
-      GoTechMart recorded its highest revenue during 2020–2021, coinciding with the peak of the COVID-19 pandemic. This correlation suggests that extended periods of stay-at-home restrictions drove a significant increase in consumer reliance on online shopping platforms, highlighting the direct impact of external behavioral shifts on e-commerce performance.
+        * Revenue peaked during 2020–2021, indicating strong growth driven by increased online shopping during COVID-19 restrictions<br/>
+        * External behavioral shifts significantly influenced e-commerce demand and overall platform performance<br/>
     </p>
     <h3>Sales & Marketing</h3>
     <p align="justify">
-      The Sales and Marketing team is recommended to intensify campaign efforts in the North America region, with a particular focus on Gaming Monitors and Apple products, which demonstrated notably stronger traction compared to the rest of the product catalog.<br/>
-The New Year holiday season has shown consistent and continuous revenue growth across the analysis period. It is recommended that the marketing team develop targeted strategies and promotions around this period to capitalize on this recurring demand pattern.<br/>
-Email marketing presents a meaningful growth opportunity, showing a potential uptick in performance. Investing further in this channel is advised as a strategic move to reduce the company's over-reliance on the Direct channel.
+        * Increase campaign focus in North America, especially for Gaming Monitors and Apple products<br/>
+        * Develop targeted promotions for the New Year season to leverage consistent revenue growth<br/>
+        * Invest in email marketing to reduce reliance on the Direct channel<br/>
     </p>
     <h3>Product & Operation</h3>
     <p align="justify">
-      The Bose Soundsport Headphones contributed approximately 0.01% of total revenue with zero recorded returns. Given its negligible commercial impact, consideration should be given to discontinuing this product from the active product line.<br/>
-The Gaming Monitor and MacBook remain the top two revenue-generating products. It is recommended to prioritize resources, inventory planning, and promotional efforts around these product lines to sustain and further grow their contribution to overall revenue.
+        * Consider discontinuing Bose Soundsport Headphones due to negligible revenue contribution<br/>
+        * Prioritize inventory and promotions for Gaming Monitors and MacBooks as top revenue drivers<br/>
+        * Allocate operational resources toward high-performing product categories<br/>
     </p>
     <h3>Finance</h3>
     <p align="justify">
-      A deeper investigation is recommended into the primary drivers behind the revenue decline in the years following the COVID period, with a focus on identifying which specific products and regions experienced the sharpest contractions.<br/>
-Additionally, the recurring sales dip observed during summer break seasons warrants further analysis to understand its root causes. Particular attention should be directed at the October 2022 dip, which shows a considerably steeper decline compared to the same period in prior years.
+        * Investigate post-COVID revenue decline across products and regions<br/>
+        * Analyze recurring summer sales dips and identify underlying causes<br/>
+        * Review October 2022 performance drop for anomalies and contributing factors<br/>
     </p>
     <h3>Data</h3>
     <p align="justify">
-      The attribution of sales to marketing channels should be reviewed and validated, as the volume attributed to the Direct channel appears disproportionately large relative to expectations and warrants further verification.
-    <br/>
-A focused investigation into customer return behavior for the top two revenue-generating products — Gaming Monitors and MacBooks — is recommended. Leveraging return reason data collected from customers will provide actionable insight into product quality, customer expectations, and potential areas for improvement.
+        * Validate marketing channel attribution, particularly the high Direct channel volume<br/>
+        * Analyze return behavior for Gaming Monitors and MacBooks using return reason data<br/>
+        * Use customer feedback to improve product quality and customer satisfaction<br/>
     </p>
   </div>
 </div>
