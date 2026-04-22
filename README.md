@@ -1,6 +1,8 @@
-# goTechMart: Data Analysis on the e-commerce platforms dataset
+<div align="center">
+  <span style={}>go</span>TechMart: Data Analysis on the e-commerce dataset
+</div>
 <p align="center">
-  <img width="680" height="270" alt="goTechMart_logo" src="https://github.com/user-attachments/assets/47697062-ce29-4bc6-a3b0-4dbb3efaab94" />
+  <img width="350" height="170" alt="goTechMart_logo" src="https://github.com/user-attachments/assets/47697062-ce29-4bc6-a3b0-4dbb3efaab94" />
 </p>
 <h2>Executive Summary</h2>
 <p align="justify">
