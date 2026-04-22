@@ -21,7 +21,9 @@
 The available dataset spans over various dimensions and categories including orders, order status, customers and geolocation entity.
 </p>
 <b>ERD Diagram</b>
-  <img width="860" height="580" alt="goTechMart_ERD" src="https://github.com/user-attachments/assets/1544f17b-00d2-4fcc-b1c9-a83bdd52840a" />
+<div align="center">
+  <img width="600" height="337" alt="goTechMart_ERD" src="https://github.com/user-attachments/assets/1544f17b-00d2-4fcc-b1c9-a83bdd52840a" />
+</div>
 <details align="justify">
   <summary><h2>Methodology</h2></summary>
   To bring this analysis to life, three core tools were used throughout the project. Excel served as the starting point for cleaning and organizing the raw data, making sure everything was structured and ready for deeper exploration. Tableau was then used to visually explore the data and build interactive dashboards that make the insights easy to understand at a glance. Finally, SQL was used to dig into the numbers and extract meaningful insights through structured queries.
@@ -54,7 +56,7 @@ The available dataset spans over various dimensions and categories including ord
       </td>
     </tr>
   </table>
-  <div>
+  <div align="center">
     <img width="628" height="144" alt="Sales_AOV_Order" 
       src="https://github.com/user-attachments/assets/5315f10d-40ec-46e4-8d37-133c40a7ad47" />
     <table align="center">
@@ -85,19 +87,21 @@ The available dataset spans over various dimensions and categories including ord
   </div>
   <div>
     <h3>Sales</h3>
-    <img width="2848" height="1512" alt="Revenue by region" 
-      src="https://github.com/user-attachments/assets/bbe4cbbc-a71f-4c32-bbfa-30d77a5db388" />
+    <div align="center">
+    <img width="922" height="437" alt="Revenue by region" 
+      src="https://github.com/user-attachments/assets/7488cf86-32de-4c7a-8ca2-c273ea2f8275" />
     <p align="justify">North America has collected the highest Sales Revenue throughout the period.</p>
+    </div>
     <table align="center">
     <tr>
       <td>
-        <img width="2960" height="1512" alt="Sales mix by product" 
-          src="https://github.com/user-attachments/assets/713e7d24-1719-4ac9-84ee-5a0352903944" />
+        <img width="1273" height="860" alt="Sales by product" 
+          src="https://github.com/user-attachments/assets/78a39e38-d7d9-40c8-ac10-a733f0ee96e9" />
       </td>
-      <td>
-        <img width="1493" height="867" alt="Sales by product" 
-        src="https://github.com/user-attachments/assets/78ce7194-4bf5-4da6-966d-82f07abdf07a" />
-      </td>
+      <td> 
+        <img width="1491" height="860" alt="Sales mix by product" 
+             src="https://github.com/user-attachments/assets/fbf8be92-50d5-4ddd-b23c-784dd9d302a4" />
+     </td>
     </tr>
   </table>
     <p align="justify">
@@ -111,20 +115,22 @@ The available dataset spans over various dimensions and categories including ord
   </div>
   <div>
     <h3>Refund</h3>
+    <div align="center">
     <img width="690" height="224" alt="Refund by region_pie" 
       src="https://github.com/user-attachments/assets/20dbe635-f008-42d0-bbcd-9340bc04541f" />
     <p align="justify">
       Our preliminary exploratory analysis shows the North America is the region with the highest refund rate of <b>56%.</b>
     </p>
+    </div>
     <table align="center">
     <tr>
       <td>
-        <img width="1493" height="867" alt="Refund by product" 
-          src="https://github.com/user-attachments/assets/b7a8cfbf-1425-4ffe-aaa7-7cd48f0cf161" />
+        <img width="1285" height="853" alt="Refund by product" 
+          src="https://github.com/user-attachments/assets/15da7d88-90f1-4399-a998-5000911b012b" />
       </td>
       <td>
-        <img width="2960" height="1512" alt="Refund mix by product" 
-          src="https://github.com/user-attachments/assets/91327aec-1d5b-43be-af19-4368fe3d54b7" />
+        <img width="1491" height="860" alt="Refund mix by product" 
+          src="https://github.com/user-attachments/assets/62821342-9eb8-4194-a811-0b7b6a1c5cc3" />
       </td>
     </tr>
   </table>
@@ -141,7 +147,7 @@ The available dataset spans over various dimensions and categories including ord
     <img width="922" height="437" alt="Marketing channel popularity" 
       src="https://github.com/user-attachments/assets/8d3f19d0-9979-44e4-af76-a2ab84cbabb4" />
     <p>
-      Direct marketing channel covers more than <b>80%</b> of total sales revenue followed by emails (11.91%). 
+      <b>Direct marketing channel</b> covers more than <b>80%</b> of total sales revenue followed by emails (11.91%). 
     </p>
     </div>
     <div align="center">
@@ -158,16 +164,16 @@ The available dataset spans over various dimensions and categories including ord
     <tr>
       <td>
         <p align="center">
-        <img width="2848" height="1512" alt="Popular platform" 
-          src="https://github.com/user-attachments/assets/55b2cee5-9aaa-4caf-835a-0a32673ab822" />
+        <img width="1463" height="853" alt="Popular Purchase Platform" 
+          src="https://github.com/user-attachments/assets/b52c19f2-304e-4777-8d2d-d8e1a50719d5" />
           Every year, huge percent of orders are purchased through <b>web platforms</b>.
         </p>
       </td>
       <td>
         <p align="center">
-        <img width="2878" height="1512" alt="Order Frequency" 
-          src="https://github.com/user-attachments/assets/085bb3c3-a3b9-4586-b605-4c3c1bfff69c" />
-          Apple Airpods Headphones were the most purchased items (48K) with <b>almost double that of the next highest purchased item</b>, Gaming Monitor (23k).
+        <img width="1438" height="853" alt="Order Frequency" 
+          src="https://github.com/user-attachments/assets/c2d10a5d-c0b6-46a4-822e-5aac5fd66d11" />
+          <b>Apple Airpods Headphones</b> were the most purchased items (48K) with <b>almost double that of the next highest purchased item</b>, Gaming Monitor (23k).
         </p>
       </td>
     </tr>
