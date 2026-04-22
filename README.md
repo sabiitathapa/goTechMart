@@ -237,35 +237,38 @@
   </div>
   <div>
     <h2>Recommendations</h2>
-    <h3>General</h3>
-    <p align="justify">
-        * Revenue peaked during 2020–2021, indicating strong growth driven by increased online shopping during COVID-19 restrictions<br/>
-        * External behavioral shifts significantly influenced e-commerce demand and overall platform performance<br/>
-    </p>
-    <h3>Sales & Marketing</h3>
-    <p align="justify">
-        * Increase campaign focus in North America, especially for Gaming Monitors and Apple products<br/>
-        * Develop targeted promotions for the New Year season to leverage consistent revenue growth<br/>
-        * Invest in email marketing to reduce reliance on the Direct channel<br/>
-    </p>
-    <h3>Product & Operation</h3>
-    <p align="justify">
-        * Consider discontinuing Bose Soundsport Headphones due to negligible revenue contribution<br/>
-        * Prioritize inventory and promotions for Gaming Monitors and MacBooks as top revenue drivers<br/>
-        * Allocate operational resources toward high-performing product categories<br/>
-    </p>
-    <h3>Finance</h3>
-    <p align="justify">
-        * Investigate post-COVID revenue decline across products and regions<br/>
-        * Analyze recurring summer sales dips and identify underlying causes<br/>
-        * Review October 2022 performance drop for anomalies and contributing factors<br/>
-    </p>
-    <h3>Data</h3>
-    <p align="justify">
-        * Validate marketing channel attribution, particularly the high Direct channel volume<br/>
-        * Analyze return behavior for Gaming Monitors and MacBooks using return reason data<br/>
-        * Use customer feedback to improve product quality and customer satisfaction<br/>
-    </p>
+<table>
+  <tr>
+    <th>Department</th>
+    <th>Insight</th>
+    <th>Recommendation</th>
+  </tr>
+  <tr>
+    <td><code>Finance</code></td>
+    <td><code>Post-COVID revenue decline combined with consistent seasonal downturns in summer</code></td>
+    <td><code>Perform root cause analysis by segmenting data across regions, product categories, and channels, and implement seasonal strategies such as targeted promotions, pricing adjustments, or demand forecasting to stabilize revenue</code></td>
+  </tr>
+  <tr>
+    <td><code>Product & Operation</code></td>
+    <td><code>Despite strong sales performance, Gaming Monitors and MacBooks exhibit high return rates</code></td>
+    <td><code>Conduct a comprehensive return behavior analysis using customer feedback, return classifications, and satisfaction data to identify root causes such as product expectations, quality issues, or fulfillment gaps, and implement corrective actions</code></td>
+  </tr>
+  <tr>
+    <td><code>Sales & Marketing</code></td>
+    <td><code>Gaming Monitors and Apple products show strong traction (>60%) in North America</code></td>
+    <td><code>Increase regional marketing investment, run targeted promotions, and optimize product visibility to capitalize on high-demand categories</code></td>
+  </tr>
+  <tr>
+    <td><code>Sales & Marketing</code></td>
+    <td><code>Consistent revenue growth observed during the New Year season</code></td>
+    <td><code>Plan early seasonal campaigns, offer time-limited discounts, and optimize inventory to meet increased demand during this high-performing period</code></td>
+  </tr>
+  <tr>
+    <td><code>Sales & Marketing</code></td>
+    <td><code>High dependency on the Direct Channel while Email channel shows potential uptick performance</code></td>
+    <td><code>Enhance email personalization and automation while diversifying marketing efforts across paid, organic, and referral channels to improve acquisition resilience</code></td>
+  </tr>
+</table>
   </div>
 </div>
 
