@@ -137,12 +137,14 @@ The available dataset spans over various dimensions and categories including ord
   </div>
   <div>
     <h3>Product & Operations</h3>
-    <img width="1032" height="610" alt="Marketing channel popularity" 
-      src="https://github.com/user-attachments/assets/40a6d74e-9643-4a59-9394-20ac3a742271" />
-    <p align="justify">
+    <div align="center">
+    <img width="922" height="437" alt="Marketing channel popularity" 
+      src="https://github.com/user-attachments/assets/8d3f19d0-9979-44e4-af76-a2ab84cbabb4" />
+    <p>
       Direct marketing channel covers more than <b>80%</b> of total sales revenue followed by emails (11.91%). 
     </p>
-    <br/>
+    </div>
+    <div align="center">
     <img width="748" height="212" alt="Loyalty vs Non-loyalty" 
       src="https://github.com/user-attachments/assets/ec3daf0d-5490-4b6d-9692-60b3774c0168" />
     <img width="671" height="174" alt="isloyal" 
@@ -151,7 +153,7 @@ The available dataset spans over various dimensions and categories including ord
     <p align="justify">
       Loyalty program customers show continuous sales growth compared to non-loyalty program customers. However, by the end of the period, the company is losing its revenue through a loyalty program which needs to be addressed.
     </p>
-    <br/>
+    </div>
     <table align="center">
     <tr>
       <td>
@@ -170,11 +172,13 @@ The available dataset spans over various dimensions and categories including ord
       </td>
     </tr>
   </table>
+    <div align="center">
     <img width="922" height="437" alt="Seasonality-linegraph" 
       src="https://github.com/user-attachments/assets/9f3c4cd3-51d6-470c-948c-fad59389b519" />
  <p align="justify">
-   This scatter plot reveals that the <b>New Year Holiday Period (Nov-Jan)</b> was the most favorable period and the <b>Summer Break (Apr-Aug)</b> was the worst period for sales. Another interesting factor to remember is Oct 2019 shows comparatively small declining sales than the rest.
+   This scatter plot reveals that the <b>New Year Holiday Period (Nov-Jan)</b> was the most favorable period and the <b>Summer Break (Apr-Aug)</b> was the worst period for sales. Another interesting factor to remember is <b>Oct 2019</b> shows comparatively small declining sales than the rest.
  </p>
+    </div>
   </div>
   </div>
   <div>
