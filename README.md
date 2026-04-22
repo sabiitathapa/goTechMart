@@ -1,13 +1,36 @@
 <div align="center">
-  <span style={}>go</span>TechMart: Data Analysis on the e-commerce dataset
+  <h1>
+    <p>E-Commerce Data Analysis Project</p>
+  </h1>
 </div>
 <p align="center">
   <img width="350" height="170" alt="goTechMart_logo" src="https://github.com/user-attachments/assets/47697062-ce29-4bc6-a3b0-4dbb3efaab94" />
 </p>
 <h2>Executive Summary</h2>
-<p align="justify">
-  Between 2019 and 2022, North America was goTechMart's strongest market, contributing roughly half of total revenue. Sales peaked in 2020 with a 162% surge, largely driven by the COVID-19 pandemic, before sharply declining by 46% in 2022. The company's revenue remains heavily reliant on direct customer channels, presenting a clear opportunity for the marketing team to expand into email and social media. The loyalty program showed gradual revenue growth over the period, moving in the opposite direction to non-loyalty customers, though a dip in 2022 signals the need for further investigation and a renewed push to grow membership.
-</p>
+<table>
+  <tr>
+    <td>
+      <strong>SALES</strong>
+      <h4>COVID-driven peak in 2020</h4>
+      <p>Sales surged 162% in 2020 driven by the pandemic, before declining sharply by 46% in 2022. North America contributed ~50% of total revenue throughout the period.</p>
+    </td>
+    <td>
+      <strong>MARKETING</strong>
+      <h4>Heavy reliance on direct channel</h4><p>Revenue is heavily concentrated in direct customer channels, signaling a clear opportunity to expand email and social media strategies.</p>
+    </td>
+  </tr>
+  <tr><td></td><td></td></tr>
+  <tr>
+    <td>
+      <strong>LOYALTY PROGRAM</strong>
+      <h4>Loyalty members outperform</h4><p>Loyalty program revenue grew steadily while non-loyalty revenue declined — though a 2022 dip warrants further investigation.</p>
+    </td>
+    <td>
+      <strong>PRODUCT</strong>
+      <h4>Gaming Monitor &amp; MacBook lead</h4><p>Top two revenue-generating products. Bose Soundsport Headphones contributed only 0.01% of revenue with minimal returns — a candidate for discontinuation.</p>
+    </td>
+  </tr>
+</table>
 <details align="justify">
   <summary><h2>Introduction</h2></summary>
   Founded in 2018, goTechMart is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. Like most e-commerce companies, goTechMart sells products through their online site as well as through their mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad.
@@ -17,18 +40,41 @@
   GoTechMart possesses a robust dataset covering orders, customer profiles, product catalogs, and geographic information, yet much of its potential remains untapped. Key stakeholders have identified a significant opportunity to extract value across critical areas — sales performance, marketing effectiveness, operational efficiency, product strategy, and loyalty program utilization. This project bridges that gap by transforming raw data into clear, actionable intelligence that empowers decision-makers to optimize operations, strengthen business strategies, and consistently deliver superior products to a global customer base.
 </details>
 <h2>Data Overview</h2>
+<p>The dataset consists of four core tables covering orders, customers, order status, and geographic information. </p>
 <p>
-  The dataset used for this analysis covers the period of 2019-2022 and the company, goTechMart has collected 108,000 transactions from 88,000 customers throughout the period with the total sales revenue exceeding $28 million. </p>
-<p>
-The available dataset spans over various dimensions and categories including orders, order status, customers and geolocation entity.
+<h4>Key Highlights</h4>
+  <ul>
+  <li><strong>4</strong><span> Years of Data</span></li>
+  <li><strong>4</strong><span> Core Tables</span></li>
+  <li><strong>+162%</strong><span> Peak Sales Growth</span></li>
+  <li><strong>50%</strong><span> North America Revenue</span></li>
+</ul>
 </p>
-<b>ERD Diagram</b>
+<h4>ERD Diagram</h4>
 <div align="center">
   <img width="600" height="337" alt="goTechMart_ERD" src="https://github.com/user-attachments/assets/1544f17b-00d2-4fcc-b1c9-a83bdd52840a" />
 </div>
 <details align="justify">
   <summary><h2>Methodology</h2></summary>
-  To bring this analysis to life, three core tools were used throughout the project. Excel served as the starting point for cleaning and organizing the raw data, making sure everything was structured and ready for deeper exploration. Tableau was then used to visually explore the data and build interactive dashboards that make the insights easy to understand at a glance. Finally, SQL was used to dig into the numbers and extract meaningful insights through structured queries.
+  <table>
+  <tr>
+    <td>
+      <strong>Data Cleaning</strong>
+      <h4>Excel</h4>
+      <p>Used as the starting point for cleaning and organizing raw data, ensuring everything was structured and ready for deeper exploration.</p>
+    </td>
+    <td>
+      <strong>Visualization</strong>
+      <h4>Tableau</h4>
+      <p>Used to visually explore the data and build interactive dashboards that make insights easy to understand at a glance.</p>
+    </td>
+    <td>
+      <strong>Analysis</strong>
+      <h4>SQL</h4>
+      <p>Used to dig into the numbers and extract meaningful insights through structured queries and aggregations.</p>
+    </td>
+  </tr>
+  </table>
 </details>
 <div>
   <h2>Analysis, Insights & Findings</h2>
