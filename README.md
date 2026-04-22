@@ -260,6 +260,11 @@
   </tr>
   <tr>
     <td><code>Sales & Marketing</code></td>
+    <td><code>Declining post-2022 engagement suggests reduced customer retention and loyalty program effectiveness</code></td>
+    <td><code>Rebuild the loyalty program as a data-driven retention engine by applying RFM segmentation to identify at-risk and high-value customers. Activate targeted re-engagement campaigns and personalized incentive structures through coordinated execution across sales, marketing, and operations to improve customer lifetime value</code></td>
+  </tr>
+  <tr>
+    <td><code>Sales & Marketing</code></td>
     <td><code>Consistent revenue growth observed during the New Year season</code></td>
     <td><code>Plan early seasonal campaigns, offer time-limited discounts, and optimize inventory to meet increased demand during this high-performing period</code></td>
   </tr>
