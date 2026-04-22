@@ -170,10 +170,10 @@ The available dataset spans over various dimensions and categories including ord
       </td>
     </tr>
   </table>
-    <img width="1848" height="920" alt="Seasonality Trend" 
-      src="https://github.com/user-attachments/assets/d2f53d9c-7b1d-447d-8142-b3ea3fa124a4" />
+    <img width="922" height="437" alt="Seasonality-linegraph" 
+      src="https://github.com/user-attachments/assets/9f3c4cd3-51d6-470c-948c-fad59389b519" />
  <p align="justify">
-   This scatter plot reveals that the <b>New Year Holiday Period (Nov-Jan)</b> was the most favorable period and the <b>Summer Break (Apr-Aug)</b> was the worst period for sales. Another interesting factor to remember is Oct 2022 shows comparatively sharp declining sales than the rest.
+   This scatter plot reveals that the <b>New Year Holiday Period (Nov-Jan)</b> was the most favorable period and the <b>Summer Break (Apr-Aug)</b> was the worst period for sales. Another interesting factor to remember is Oct 2019 shows comparatively small declining sales than the rest.
  </p>
   </div>
   </div>
