@@ -219,8 +219,8 @@
       </td>
       <td>
         <p align="center">
-        <img width="1438" height="853" alt="Order Frequency" 
-          src="https://github.com/user-attachments/assets/c2d10a5d-c0b6-46a4-822e-5aac5fd66d11" />
+        <img width="1487" height="860" alt="Order Frequency" 
+          src="https://github.com/user-attachments/assets/aec54fef-2294-4111-8ec9-458c73308a75" />
           <b>Apple Airpods Headphones</b> were the most purchased items (48K) with <b>almost double that of the next highest purchased item</b>, Gaming Monitor (23k).
         </p>
       </td>
@@ -230,7 +230,7 @@
     <img width="922" height="437" alt="Seasonality-linegraph" 
       src="https://github.com/user-attachments/assets/9f3c4cd3-51d6-470c-948c-fad59389b519" />
  <p align="justify">
-   This scatter plot reveals that the <b>New Year Holiday Period (Nov-Jan)</b> was the most favorable period and the <b>Summer Break (Apr-Aug)</b> was the worst period for sales. Another interesting factor to remember is <b>Oct 2019</b> shows comparatively small declining sales than the rest.
+   This line graph reveals that the <b>New Year Holiday Period (Nov-Jan)</b> was the most favorable period and the <b>Summer Break (Apr-Aug)</b> was the worst period for sales. Another interesting factor to remember is <b>Oct 2019</b> shows comparatively small declining sales than the rest.
  </p>
     </div>
   </div>
