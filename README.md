@@ -143,8 +143,8 @@
     <table align="center">
     <tr>
       <td>
-        <img width="1273" height="860" alt="Sales by product" 
-          src="https://github.com/user-attachments/assets/78a39e38-d7d9-40c8-ac10-a733f0ee96e9" />
+        <img width="1281" height="825" alt="Sales by product" 
+          src="https://github.com/user-attachments/assets/e00474ec-ccc4-46cb-8286-971fd1ffb69b" />
       </td>
       <td> 
         <img width="1491" height="860" alt="Sales mix by product" 
@@ -173,8 +173,8 @@
     <table align="center">
     <tr>
       <td>
-        <img width="1285" height="853" alt="Refund by product" 
-          src="https://github.com/user-attachments/assets/15da7d88-90f1-4399-a998-5000911b012b" />
+        <img width="1281" height="825" alt="Refund by product" 
+          src="https://github.com/user-attachments/assets/1b3891f8-d428-400d-82f7-6eb42ba4039b" />
       </td>
       <td>
         <img width="1491" height="860" alt="Refund mix by product" 
