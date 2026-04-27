@@ -124,13 +124,13 @@
     </tr>
     </table>
     <p>
-      In 2020, the company gained its highest sales of all time with sales growth by <b>162%</b>, AOV growth by <b>31%</b> and order count growth by <b>101%</b>.
+      In 2020, the company achieved its highest sales on record, with sales increasing by <b>162%</b>, average order value (AOV) rising by <b>31%</b>, and order volume growing by <b>101%</b>. As this period coincided with the peak of the COVID-19 pandemic, the data suggests a potential correlation between revenue growth and the surge in online shopping behavior during that time.
     </p>
     <p>
-      After COVID, the sales declined to 46% and order count declined to 40% in 2022 while total AOV declined to just 10%.
+      Following 2020, sales declined consistently, with total sales decreasing by 46% by 2022. Order count also dropped significantly to 40%, while average order value (AOV) saw a more modest decline of 10% over the same period.
     </p>
     <p>
-      From 2019 to 2020, average number of sales per year was 27K, with average yearly sale revenue of $7M and average order value of $254. 2021 saw the highest number of sales (36K), but 2020 had on average the most expensive sales (AOV of $300).
+      From 2019 to 2020, the average annual sales volume was 27K, with an average yearly revenue of $7M and an average order value (AOV) of $254. While 2021 recorded the highest number of sales at 36K, 2020 had the highest average order value, at $300.
     </p>
   </div>
   <div>
@@ -138,7 +138,7 @@
     <div align="center">
     <img width="922" height="437" alt="Revenue by region" 
       src="https://github.com/user-attachments/assets/7488cf86-32de-4c7a-8ca2-c273ea2f8275" />
-    <p align="justify">North America has collected the highest Sales Revenue throughout the period.</p>
+    <p align="justify">The North America region generated the highest sales revenue over the 2019–2022 period.</p>
     </div>
     <table align="center">
     <tr>
