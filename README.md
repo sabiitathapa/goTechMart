@@ -153,10 +153,10 @@
     </tr>
   </table>
     <p align="justify">
-      Over the period, the Apple Airpods were sold more than 48K with AOV $160. Despite 23K and 3964 of the Gaming Monitor and Macbook Air Laptop were sold correspondingly, these products generated more than 50% sales revenue with the highest AOV ($421 & $1590) for the same period.
+      Over this period, Apple AirPods recorded the highest sales volume, with over 48K units sold at <b> an AOV of $160</b>. In contrast, although only 23K Gaming Monitors and 3,964 MacBook Air laptops were sold, these products contributed to <b>more than 50% of total sales revenue</b> due to their significantly higher AOVs ($421 and $1,590, respectively).
     </p>
     <p align="justify">
-      The purchasing trends of the Gaming Monitor and Macbook Air Laptop were positive after 2020 while this trend remains similar for Apple Airpods, indicating the monitor and laptop were in high demand when people stay at home, COVID period in this particular case. </p>
+      Sales trends for Gaming Monitors and MacBook Air laptops showed strong growth after 2020, while Apple AirPods maintained a steady trend. This pattern suggests increased demand for monitors and laptops during the COVID-19 period, likely driven by the shift toward remote work and stay-at-home lifestyles.</p>
   </div>
   <div>
     <h3>Refund</h3>
@@ -180,7 +180,7 @@
     </tr>
   </table>
     <p align="justify">
-    The Macbook Air Laptop holds the highest refund amount with 33.37% ($746K) with just 453 returns the underlining reason could be the highest AOV of the product.
+    The MacBook Air laptop accounts for the highest refund amount, <b>representing 33.37% ($746K) of total refunds, despite only 453 returns</b>. This is likely driven by its high average order value (AOV).
     </p>
   </div>
   <div>
