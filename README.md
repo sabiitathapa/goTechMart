@@ -123,13 +123,13 @@
       </td>
     </tr>
     </table>
-    <p>
+    <p  align="justify">
       In 2020, the company achieved its highest sales on record, with sales increasing by <b>162%</b>, average order value (AOV) rising by <b>31%</b>, and order volume growing by <b>101%</b>. As this period coincided with the peak of the COVID-19 pandemic, the data suggests a potential correlation between revenue growth and the surge in online shopping behavior during that time.
     </p>
-    <p>
+    <p  align="justify">
       Following 2020, sales declined consistently, with total sales decreasing by 46% by 2022. Order count also dropped significantly to 40%, while average order value (AOV) saw a more modest decline of 10% over the same period.
     </p>
-    <p>
+    <p  align="justify">
       From 2019 to 2020, the average annual sales volume was 27K, with an average yearly revenue of $7M and an average order value (AOV) of $254. While 2021 recorded the highest number of sales at 36K, 2020 had the highest average order value, at $300.
     </p>
   </div>
@@ -153,13 +153,10 @@
     </tr>
   </table>
     <p align="justify">
-      The 27in 4K Gaming Monitor generated 35% revenue, the highest Sales of $9862K with AOV $421 and more than 23K orders throughout the period.
+      Over the period, the Apple Airpods were sold more than 48K with AOV $160. Despite 23K and 3964 of the Gaming Monitor and Macbook Air Laptop were sold correspondingly, these products generated more than 50% sales revenue with the highest AOV ($421 & $1590) for the same period.
     </p>
     <p align="justify">
-      The Apple Airpods Headphones hold the highest order count of 48K, generating total Sales revenue of $7739K and AOV of $160 throughout the period.</p>
-<p align="justify">
-  The Macbook Air Laptop generated the highest AOV of $1590 with total Sales revenue of $6303K from 3964 orders throughout the period.
-    </p>
+      The purchasing trends of the Gaming Monitor and Macbook Air Laptop were positive after 2020 while this trend remains similar for Apple Airpods, indicating the monitor and laptop were in high demand when people stay at home, COVID period in this particular case. </p>
   </div>
   <div>
     <h3>Refund</h3>
@@ -167,7 +164,7 @@
     <img width="690" height="224" alt="Refund by region_pie" 
       src="https://github.com/user-attachments/assets/20dbe635-f008-42d0-bbcd-9340bc04541f" />
     <p align="justify">
-      Our preliminary exploratory analysis shows the North America is the region with the highest refund rate of <b>56%.</b>
+      Our preliminary exploratory analysis shows the North America is the region with the highest refund rate of <b>56%</b>.
     </p>
     </div>
     <table align="center">
@@ -183,10 +180,7 @@
     </tr>
   </table>
     <p align="justify">
-    The Macbook Air Laptop holds the highest refund amount with 33.37% ($746K) with just 453 returns.
-    </p>
-    <p align="justify">
-      The Apple Airpods Headphones are the most returned product with 2636 returns covering 19.22% ($430K) of total return amount.
+    The Macbook Air Laptop holds the highest refund amount with 33.37% ($746K) with just 453 returns the underlining reason could be the highest AOV of the product.
     </p>
   </div>
   <div>
